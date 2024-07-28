@@ -1,0 +1,2 @@
+requests>=2.32.3
+clize>=5.0.2
